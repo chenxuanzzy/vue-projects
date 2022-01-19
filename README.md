@@ -1,8 +1,6 @@
 <!-- badges -->
 <div align="right">
 
-[![](https://img.shields.io/github/license/chenxuanzzy/vue-project.svg?style=flat-square)](./LICENSE)
-
 </div>
 
 <!-- title, description and logo -->
