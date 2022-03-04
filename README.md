@@ -19,4 +19,4 @@ _🏋️ Learn and practice with [Vue](https://vuejs.org/v2/guide/index.html) �
 
 ## License
 
-Licensed under the MIT License, Copyright © 2021-present [Cindy Chao](https://github.com/chenxuanzzy).
+Licensed under the MIT License, Copyright © 2021-present [Chen Xuan](https://github.com/chenxuanzzy).
