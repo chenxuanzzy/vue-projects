@@ -1,4 +1,4 @@
-# test
+# timer-countdown
 
 ## Project setup
 ```

@@ -1,7 +1,7 @@
 <template>
   <div class="counter" v-if="loading">
     <section class="text-3xl flex justify-center flex-col mx-auto text-center">
-      <h5 v-if="!expired">Buy Now</h5>
+      <h5 v-if="!expired">Timer Counter</h5>
       <h5 v-else>Timer is done</h5>
     </section>
     <section class="flex text-6xl justify-center content-center">
